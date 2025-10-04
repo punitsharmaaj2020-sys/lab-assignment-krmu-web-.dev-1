@@ -10,7 +10,6 @@ My projects within this portfolio demonstrate my ability to:
 * Implement basic interactive forms.
 
 #Feel free to connect with me!
-* *LinkedIn:* [Your LinkedIn Profile URL]
-* *GitHub:* [Your GitHub Profile URL]
+* *GitHub:* [https://github.com/punitsharmaaj2020-sys]
 
 Thank you for visiting my protfolio
