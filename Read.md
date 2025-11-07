@@ -6,11 +6,12 @@ It is a single webpage built using *HTML* (for the content) and *CSS* (for the s
 
 # What's on the page?
 *About Me: A short introduction.
-*My Skills: A table of the technologies I'm learning.
-My Projects: A section to show my work.
+
+*My Skills: my newly developing carrier.
 
 # My projects within this portfolio demonstrate my ability to:
 1.Structure content with HTML.
+
 2.Implement basic interactive forms.
 
 *Contact Me:Feel free to connect with me!
