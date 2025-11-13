@@ -1,10 +1,10 @@
-[My First Portfolio Website]
+#[My Portfolio Website]
 
 ●Hello! I am Punit, a web development student, and this is my personal portfolio website.
 
-It is a webpage built using HTML (for the content) and CSS (for the styling).
+●It is a webpage built using HTML (for the content) and CSS (for the styling).
 
-What's on the page?
+#What's on the page?
 ●About Me: A short introduction.
 
 ●My Skills: my newly developing carrier.
@@ -16,4 +16,4 @@ What's on the page?
 
 #Contact Me:Feel free to connect with me.
 
-my github profile :(punitsharmaaj2020-sys)
+my github profile :(https://github.com/punitsharmaaj2020-sys)
