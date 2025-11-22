@@ -14,6 +14,6 @@
 ​🧑‍💻 Student Information
 ​Name: [PUNIT]
 ​Course: [(BTECH AI&ML)]
-github link : punitsharmaaj2020-sys
+github link : [punitsharmaaj2020-sys]
 
 
