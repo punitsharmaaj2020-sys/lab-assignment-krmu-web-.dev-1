@@ -1,4 +1,5 @@
-#Lab assignments 
+## Lab assignments ->
+
 ​A brief, one-sentence description of the assignment's main goal .
 
 ## Objective:
@@ -10,7 +11,6 @@
 ​index.html: The main structure and content.
 ​styles.css: All custom styling for the page.
 
-​---
 ​🧑‍💻 Student Information
 
 ​Name: [PUNIT]
