@@ -1,4 +1,4 @@
-## Lab assignments ->
+# Lab assignments ->
 
 ​A brief, one-sentence description of the assignment's main goal .
 
