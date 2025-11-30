@@ -1,7 +1,6 @@
 # Lab assignments ->
-
-​A brief, one-sentence description of the assignment's main goal .
-
+HELLO! THERE 
+These are my web dev college assignmet
 ## Objective:
 ​This section outlines the specific concepts demonstrated in this lab
 ​and also to interact with new web developers.
