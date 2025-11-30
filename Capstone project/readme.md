@@ -2,7 +2,7 @@
 # 🎓 Capstone Project: [AAPKA COLLEGE]
 
 **Course:** Web Development (KRMU)
-**Student Name:** Punit Sharma
+**Student Name:** Punit kumar
 **Folder:** `Capstone project`
 
 ## 📖 Project Overview
